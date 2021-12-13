@@ -1,7 +1,12 @@
+header {
+    display: flex;
+    flex-direction: row;
+}
+
 #logo {
     justify-self: left;
 }
 
-.link {
-    justify-self: right;
+#links {
+    justify-self: flex-end;
 }
