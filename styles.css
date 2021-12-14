@@ -1,7 +1,7 @@
 header {
     display: flex;
     flex-direction: row;
-    padding: 20px 100px;
+    padding: 20px 150px;
     background-color: #1F2937;
 }
 
@@ -26,11 +26,7 @@ header {
 }
 
 .section {
-    padding: 100px;
-}
-
-#heroBox {
-    padding-right: 50px;
+    padding: 150px;
 }
 
 #hero {
