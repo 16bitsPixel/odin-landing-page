@@ -22,3 +22,7 @@ header {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.section {
+    margin: 100px;
+}
