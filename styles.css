@@ -1,8 +1,7 @@
 header {
     display: flex;
     flex-direction: row;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding: 20px 100px;
     background-color: #1F2937;
 }
 
@@ -30,6 +29,10 @@ header {
     padding: 100px;
 }
 
+#heroBox {
+    padding-right: 50px;
+}
+
 #hero {
     display: flex;
     flex-direction: row;
@@ -54,4 +57,5 @@ header {
     font-weight: bold;
     background-color: #3882F6;
     border-radius: 25px;
+    padding: 5px 10px;
 }
