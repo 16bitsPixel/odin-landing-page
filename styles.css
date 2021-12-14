@@ -16,7 +16,7 @@ header {
     margin-left: auto;
 }
 
-#heroSubText, #headLink {
+.heroSubText, .headLink {
     font-size: 18px;
     color: #E5E7EB
 }
