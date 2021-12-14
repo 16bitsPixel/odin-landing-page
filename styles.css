@@ -16,11 +16,14 @@ header {
     margin-left: auto;
 }
 
+#heroSubText, #headLink {
+    font-size: 18px;
+    color: #E5E7EB
+}
+
 #headLink {
     margin-left: 1em;
     margin-right: 1em;
-    font-size: 18px;
-    color: #E5E7EB;
 }
 
 .section {
@@ -43,4 +46,9 @@ header {
     margin-left: auto;
     padding: 20px;
     background-color: gray;
+}
+
+.button {
+    color: #3882F6;
+    border-radius: 25px;
 }
