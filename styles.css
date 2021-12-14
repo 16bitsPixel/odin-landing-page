@@ -30,6 +30,7 @@ header {
 #hero {
     display: flex;
     flex-direction: row;
+    background-color: #1F2937;
 }
 
 #heroImage {
