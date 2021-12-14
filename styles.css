@@ -30,12 +30,13 @@ body {
 }
 
 .section {
-    padding: 150px;
+    padding: 50px 150px;
 }
 
 #hero {
     display: flex;
     flex-direction: row;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: #1F2937;
 }
 
@@ -47,7 +48,7 @@ body {
 
 #heroImage {
     margin-left: auto;
-    padding: 100px;
+    padding: 100px 150px 100px 200px;
     background-color: gray;
     align-self: center;
 }
