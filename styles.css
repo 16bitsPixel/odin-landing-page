@@ -3,10 +3,13 @@ header {
     flex-direction: row;
     margin-left: 100px;
     margin-right: 100px;
+    background-color: #1F2937;
 }
 
 #logo {
     justify-self: left;
+    font-size: 24px;
+    color: #F9FAF8;
 }
 
 #headLinks {
@@ -16,4 +19,6 @@ header {
 #headLink {
     margin-left: 1em;
     margin-right: 1em;
+    font-size: 18px;
+    color: #E5E7EB;
 }
