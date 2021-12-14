@@ -9,6 +9,11 @@ header {
     justify-self: left;
 }
 
-#links {
+#headLinks {
     margin-left: auto;
+}
+
+#headLink {
+    margin-left: 1em;
+    margin-right: 1em;
 }
