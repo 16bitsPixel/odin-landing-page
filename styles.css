@@ -1,8 +1,8 @@
 header {
     display: flex;
     flex-direction: row;
-    margin-left: 100px;
-    margin-right: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
     background-color: #1F2937;
 }
 
@@ -27,7 +27,7 @@ header {
 }
 
 .section {
-    margin: 100px;
+    padding: 100px;
 }
 
 #hero {
