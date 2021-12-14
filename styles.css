@@ -44,8 +44,9 @@ header {
 
 #heroImage {
     margin-left: auto;
-    padding: 20px;
+    padding: 100px;
     background-color: gray;
+    align-self: center;
 }
 
 .button {
