@@ -21,7 +21,7 @@ header {
     color: #E5E7EB
 }
 
-#headLink {
+.headLink {
     margin-left: 1em;
     margin-right: 1em;
 }
