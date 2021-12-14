@@ -34,4 +34,6 @@ header {
 
 #heroImage {
     margin-left: auto;
+    padding: 20px;
+    background-color: gray;
 }
