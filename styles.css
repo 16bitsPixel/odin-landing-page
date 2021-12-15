@@ -19,7 +19,7 @@ body {
     margin-left: auto;
 }
 
-.heroSubtext, .headLink, .imgDesc {
+.heroSubtext, .headLink {
     font-size: 18px;
     color: #E5E7EB
 }
@@ -81,7 +81,7 @@ body {
 .image {
     display: flex;
     flex-direction: column;
-    margin: 0px, 1em;
+    margin: 0px 1em;
 }
 
 .infoImg {
@@ -93,4 +93,6 @@ body {
 
 .imgDesc {
     text-align: center;
+    font-size: 18px;
+    color:gray;
 }
