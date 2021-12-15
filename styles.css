@@ -30,7 +30,7 @@ body {
 }
 
 .section {
-    padding: 20px 150px 80px;
+    padding: 20px 150px 50px;
 }
 
 #hero {
@@ -103,7 +103,7 @@ body {
 
 #thor {
     font-size: 36px;
-    font-weight: light;
+    font-weight: lighter;
     font-style: italic;
     color: #1f2937;
 }
