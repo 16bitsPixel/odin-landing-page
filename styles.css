@@ -59,3 +59,24 @@ body {
     border-radius: 25px;
     padding: 5px 10px;
 }
+
+#photos {
+    display: flex;
+    flex-direction: column;
+}
+
+#infoText {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+#imageContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.image {
+    display: flex;
+    flex-direction: column;
+}
