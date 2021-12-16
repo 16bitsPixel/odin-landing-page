@@ -108,6 +108,9 @@ body {
     font-weight: lighter;
     font-style: italic;
     color: #1f2937;
+    padding: 50px 0px;
+    margin: 0px 450px;
+    display: flex;
 }
 
 #speaker {
