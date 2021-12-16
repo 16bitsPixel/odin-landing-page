@@ -117,6 +117,6 @@ body {
 #speaker {
     font-weight: bold;
     font-size: 24px;
-    display: flex;
-    justify-content: end;
+    margin-left: auto;
+    margin-right: 450px;
 }
