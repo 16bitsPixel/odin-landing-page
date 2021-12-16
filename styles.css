@@ -30,7 +30,7 @@ body {
 }
 
 .section {
-    padding: 20px 150px 50px;
+    padding: 20px 150px 90px;
 }
 
 #hero {
@@ -99,6 +99,8 @@ body {
 
 #quote {
     background-color: #E5E7EB;
+    display: flex;
+    align-items: center;
 }
 
 #thor {
@@ -106,4 +108,11 @@ body {
     font-weight: lighter;
     font-style: italic;
     color: #1f2937;
+}
+
+#speaker {
+    font-weight: bold;
+    font-size: 24px;
+    display: flex;
+    justify-content: end;
 }
