@@ -130,11 +130,22 @@ body {
     flex-direction: row;
     background-color: #3882F6;
     padding: 20px 80px;
+    margin-top: 80px;
 }
 
 #actionText {
     display: flex;
     flex-direction: column;
+}
+
+#actionHead {
+    color: #F9FAF8;
+    font-weight:bold;
+}
+
+#actionSub {
+    color: #F9FAF8;
+    font-weight:lighter;
 }
 
 .button2 {
@@ -143,4 +154,6 @@ body {
     background-color: #3882F6;
     border-radius: 25px;
     padding: 5px 10px;
+    margin: 20px 0px 0px 190px;
+    border-color: #F9FAF8;
 }
