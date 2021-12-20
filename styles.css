@@ -131,6 +131,7 @@ body {
     background-color: #3882F6;
     padding: 20px 80px;
     margin-top: 80px;
+    border-radius: 10px;
 }
 
 #actionText {
@@ -141,11 +142,13 @@ body {
 #actionHead {
     color: #F9FAF8;
     font-weight:bold;
+    padding-top: 30px;
 }
 
 #actionSub {
     color: #F9FAF8;
     font-weight:lighter;
+    margin: 2px 0px 40px;
 }
 
 .button2 {
@@ -154,6 +157,8 @@ body {
     background-color: #3882F6;
     border-radius: 25px;
     padding: 5px 10px;
-    margin: 20px 0px 0px 190px;
+    margin: 5px 0px 0px 190px;
+    border-style: solid;
     border-color: #F9FAF8;
+    align-self: center;
 }
