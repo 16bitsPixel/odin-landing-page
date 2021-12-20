@@ -24,6 +24,10 @@ body {
     color: #E5E7EB
 }
 
+.heroSubtext {
+    margin-right: 50px;
+}
+
 .headLink {
     margin-left: 1em;
     margin-right: 1em;
@@ -43,7 +47,6 @@ body {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
-    margin-right: 50px;
 }
 
 #heroImage {
@@ -86,7 +89,7 @@ body {
 }
 
 .infoImg {
-    padding: 100px;
+    padding: 90px;
     border-radius: 10px;
     border-style: solid;
     border-color:#3882F6;
